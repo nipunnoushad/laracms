@@ -1,0 +1,1 @@
+John\n $config = ["db_name" => "", "db_password" => ""];?>

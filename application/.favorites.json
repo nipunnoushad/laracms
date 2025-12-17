@@ -1,0 +1,29 @@
+[
+    {
+        "type": "Directory",
+        "name": "d:\\Documents\\localhost\\www\\riptcms\\resources\\views\\backend",
+        "parent_id": null,
+        "fsPath": "d:\\Documents\\localhost\\www\\riptcms\\resources\\views\\backend",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ljUvR0bcChSzeiPk"
+    },
+    {
+        "type": "Directory",
+        "name": "d:\\Documents\\localhost\\www\\riptcms\\app\\Http\\Controllers\\Backend",
+        "parent_id": null,
+        "fsPath": "d:\\Documents\\localhost\\www\\riptcms\\app\\Http\\Controllers\\Backend",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "eDUMJL3hfXIEGRQd"
+    },
+    {
+        "type": "Directory",
+        "name": "d:\\Documents\\localhost\\www\\riptcms\\routes",
+        "parent_id": null,
+        "fsPath": "d:\\Documents\\localhost\\www\\riptcms\\routes",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "O5Y4I8dXyhc0eWTC"
+    }
+]
