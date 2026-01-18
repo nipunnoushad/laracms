@@ -442,6 +442,5 @@ For inquiries, support, or collaboration opportunities, please reach out to:
 
 ---
 
-**Last Updated**: January 2026
 
 *Laracms - Making content management flexible, powerful, and developer-friendly*
